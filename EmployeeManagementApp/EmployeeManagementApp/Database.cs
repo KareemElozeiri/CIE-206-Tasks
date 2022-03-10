@@ -8,6 +8,16 @@ namespace EmployeeManagementApp
 {
     internal class Database
     {
-        public static int[] x = { 1, 2, 3, 4 };
+       
+        public static int MaxCount = 100;
+        public static int CurrentCount = 0;
+        public static int SelectedUser = -1;
+        public static User[] Users = new User[MaxCount];
+
+
+        public static void AddUser(User user) { 
+            Users[CurrentCount] = user;
+            CurrentCount++;
+        }
     }
 }

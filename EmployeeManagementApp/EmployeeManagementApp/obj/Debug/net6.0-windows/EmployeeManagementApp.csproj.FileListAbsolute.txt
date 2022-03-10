@@ -5,7 +5,6 @@ C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\bin\De
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\net6.0-windows\ref\EmployeeManagementApp.dll
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\net6.0-windows\EmployeeManagementApp.pdb
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.csproj.AssemblyReference.cache
-C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.Form1.resources
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.csproj.GenerateResource.cache
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.AssemblyInfoInputs.cache
@@ -15,3 +14,10 @@ C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\De
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\ref\EmployeeManagementApp.dll
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.pdb
 C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.genruntimeconfig.cache
+C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.LoginForm.resources
+C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.Privilage12Form.resources
+C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.Privilage3Form.resources
+C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.AddNewUserForm.resources
+C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.AddProjectForm.resources
+C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.RetrieveProjectsForm.resources
+C:\kareem\repos\CIE-206-Tasks\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\net6.0-windows\EmployeeManagementApp.ViewAllEmployeesForm.resources
