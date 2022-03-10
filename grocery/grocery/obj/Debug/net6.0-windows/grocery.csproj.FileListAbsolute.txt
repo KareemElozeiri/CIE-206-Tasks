@@ -1,0 +1,17 @@
+C:\Users\kareem\Desktop\grocery\grocery\bin\Debug\net6.0-windows\grocery.exe
+C:\Users\kareem\Desktop\grocery\grocery\bin\Debug\net6.0-windows\grocery.deps.json
+C:\Users\kareem\Desktop\grocery\grocery\bin\Debug\net6.0-windows\grocery.runtimeconfig.json
+C:\Users\kareem\Desktop\grocery\grocery\bin\Debug\net6.0-windows\grocery.dll
+C:\Users\kareem\Desktop\grocery\grocery\bin\Debug\net6.0-windows\ref\grocery.dll
+C:\Users\kareem\Desktop\grocery\grocery\bin\Debug\net6.0-windows\grocery.pdb
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.csproj.AssemblyReference.cache
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.Form1.resources
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.csproj.GenerateResource.cache
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.AssemblyInfoInputs.cache
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.AssemblyInfo.cs
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.csproj.CoreCompileInputs.cache
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.dll
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\ref\grocery.dll
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.pdb
+C:\Users\kareem\Desktop\grocery\grocery\obj\Debug\net6.0-windows\grocery.genruntimeconfig.cache

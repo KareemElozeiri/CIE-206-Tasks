@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc01db37-aaa7-46e7-b4ef-58b28c1e1be8": {
+      "ProjectGuid": "cc01db37-aaa7-46e7-b4ef-58b28c1e1be8",
+      "DisplayName": "grocery",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
