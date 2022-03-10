@@ -13,7 +13,13 @@ namespace EmployeeManagementApp
         public static int CurrentCount = 0;
         public static int SelectedUser = -1;
         public static User[] Users = new User[MaxCount];
+        public static Project[] Projects = new Project[MaxCount];
+        public static int CurrentCountProjects = 0;
 
+        public static void AddProject(Project project) {
+            Projects[CurrentCountProjects] = project;
+            CurrentCountProjects++;
+        }
 
         public static void AddUser(User user) { 
             Users[CurrentCount] = user;

@@ -17,7 +17,7 @@ namespace EmployeeManagementApp
             User u0 = new User();
             u0.Name = "Kareem";
             u0.Password = "123";
-            u0.Privilage = 1;
+            u0.Privilage = 3;
             Database.AddUser(u0);
             InitializeComponent();
         }

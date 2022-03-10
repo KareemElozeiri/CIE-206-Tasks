@@ -7,6 +7,13 @@ namespace EmployeeManagementApp
 
     }
 
+    struct Project {
+        public string Name;
+        public int Number;
+        public string Location;
+    }
+
+
     internal static  class Program
     {
         /// <summary>

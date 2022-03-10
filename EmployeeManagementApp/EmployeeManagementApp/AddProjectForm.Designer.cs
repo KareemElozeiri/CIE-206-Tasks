@@ -89,7 +89,6 @@
             this.ProjectNumberTextBox.Name = "ProjectNumberTextBox";
             this.ProjectNumberTextBox.Size = new System.Drawing.Size(176, 27);
             this.ProjectNumberTextBox.TabIndex = 5;
-            this.ProjectNumberTextBox.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // ProjectLocationTextBox
             // 
@@ -112,6 +111,7 @@
             this.Controls.Add(this.label1);
             this.Name = "AddProjectForm";
             this.Text = "AddProjectForm";
+            this.Load += new System.EventHandler(this.AddProjectForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

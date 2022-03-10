@@ -17,7 +17,8 @@ namespace EmployeeManagementApp
             InitializeComponent();
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
+
+        private void AddProjectForm_Load(object sender, EventArgs e)
         {
 
         }

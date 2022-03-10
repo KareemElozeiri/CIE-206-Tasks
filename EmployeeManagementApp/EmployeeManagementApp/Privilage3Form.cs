@@ -31,7 +31,7 @@ namespace EmployeeManagementApp
         private void AddNewUserBtn_Click(object sender, EventArgs e)
         {
             this.Close();
-            (new AddProjectForm()).Show();
+            (new AddNewUserForm()).Show();
         }
     }
 }

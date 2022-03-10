@@ -16,5 +16,27 @@ namespace EmployeeManagementApp
         {
             InitializeComponent();
         }
+
+        private void AddNewUserForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        
+
+        private void AddUserBtn_Click_1(object sender, EventArgs e)
+        {
+            if (UsernameTextBox.Text != "" || PasswordTextBox.Text != "" || PrivilageTextBox.Text != "")
+            {
+                User user = new User();
+                user.Name = UsernameTextBox.Text;
+                user.Password = PasswordTextBox.Text;
+                user.Privilage = Convert.ToInt32(PrivilageTextBox.Text);
+                UsernameTextBox.Text = "";
+                Database.AddUser(user);
+                this.Close();
+                (new LoginForm()).Show();
+            }
+        }
     }
 }
