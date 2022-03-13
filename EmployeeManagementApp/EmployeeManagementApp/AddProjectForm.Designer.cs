@@ -75,6 +75,7 @@
             this.AddProjectBtn.TabIndex = 3;
             this.AddProjectBtn.Text = "Add Project";
             this.AddProjectBtn.UseVisualStyleBackColor = true;
+            this.AddProjectBtn.Click += new System.EventHandler(this.AddProjectBtn_Click);
             // 
             // ProjectNameTextBox
             // 

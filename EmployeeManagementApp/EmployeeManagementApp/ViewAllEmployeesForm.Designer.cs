@@ -41,6 +41,7 @@
             this.EmployeesDataGrid.RowTemplate.Height = 29;
             this.EmployeesDataGrid.Size = new System.Drawing.Size(533, 292);
             this.EmployeesDataGrid.TabIndex = 0;
+            this.EmployeesDataGrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.EmployeesDataGrid_CellContentClick);
             // 
             // ViewAllEmployeesForm
             // 

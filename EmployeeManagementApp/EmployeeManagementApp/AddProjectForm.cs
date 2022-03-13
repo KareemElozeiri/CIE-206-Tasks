@@ -22,5 +22,18 @@ namespace EmployeeManagementApp
         {
 
         }
+
+        private void AddProjectBtn_Click(object sender, EventArgs e)
+        {
+            if (ProjectNameTextBox.Text != "" || ProjectLocationTextBox.Text != "" || ProjectNumberTextBox.Text != "") {
+                Project p;
+                p.Name = ProjectNameTextBox.Text;
+                p.Location = ProjectLocationTextBox.Text;
+                p.Number = Convert.ToInt32(ProjectNumberTextBox.Text);
+                Database.AddProject(p);
+                this.Close();
+                (new LoginForm()).Show();
+            }
+        }
     }
 }

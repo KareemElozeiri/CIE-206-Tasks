@@ -15,6 +15,17 @@ namespace EmployeeManagementApp
         public ViewAllEmployeesForm()
         {
             InitializeComponent();
+            EmployeesDataGrid.Columns.Add("Name", "Name");
+            EmployeesDataGrid.Columns.Add("Privilage", "Privilage");
+            for (int i = 0; i < Database.CurrentCount; i++) { 
+                EmployeesDataGrid.Rows.Add(Database.Users[i].Name,Database.Users[i].Privilage);
+            }
+
+        }
+
+        private void EmployeesDataGrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

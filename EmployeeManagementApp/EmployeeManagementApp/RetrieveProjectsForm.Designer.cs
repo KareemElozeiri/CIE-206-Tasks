@@ -32,6 +32,7 @@
             this.LocationComboBox = new System.Windows.Forms.ComboBox();
             this.ProjectsDataGrid = new System.Windows.Forms.DataGridView();
             this.ExecuteBtn = new System.Windows.Forms.Button();
+            this.LogOutBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.ProjectsDataGrid)).BeginInit();
             this.SuspendLayout();
             // 
@@ -66,18 +67,30 @@
             // 
             // ExecuteBtn
             // 
-            this.ExecuteBtn.Location = new System.Drawing.Point(244, 398);
+            this.ExecuteBtn.Location = new System.Drawing.Point(244, 380);
             this.ExecuteBtn.Name = "ExecuteBtn";
             this.ExecuteBtn.Size = new System.Drawing.Size(125, 29);
             this.ExecuteBtn.TabIndex = 3;
             this.ExecuteBtn.Text = "Execute";
             this.ExecuteBtn.UseVisualStyleBackColor = true;
+            this.ExecuteBtn.Click += new System.EventHandler(this.ExecuteBtn_Click);
+            // 
+            // LogOutBtn
+            // 
+            this.LogOutBtn.Location = new System.Drawing.Point(244, 415);
+            this.LogOutBtn.Name = "LogOutBtn";
+            this.LogOutBtn.Size = new System.Drawing.Size(125, 23);
+            this.LogOutBtn.TabIndex = 4;
+            this.LogOutBtn.Text = "Log Out";
+            this.LogOutBtn.UseVisualStyleBackColor = true;
+            this.LogOutBtn.Click += new System.EventHandler(this.LogOutBtn_Click);
             // 
             // RetrieveProjectsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(598, 450);
+            this.Controls.Add(this.LogOutBtn);
             this.Controls.Add(this.ExecuteBtn);
             this.Controls.Add(this.ProjectsDataGrid);
             this.Controls.Add(this.LocationComboBox);
@@ -96,5 +109,6 @@
         private ComboBox LocationComboBox;
         private DataGridView ProjectsDataGrid;
         private Button ExecuteBtn;
+        private Button LogOutBtn;
     }
 }
